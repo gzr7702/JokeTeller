@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisplayJoke</string>
+    <string name="title_activity_main_display">MainDisplayActivity</string>
+</resources>
